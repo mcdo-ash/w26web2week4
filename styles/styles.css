@@ -1,0 +1,22 @@
+/* playing with background size and background position */
+.back-sizer{
+    height:600px;
+    border:2px solid black;
+}
+
+.test2 img{
+    width:100%;
+}
+
+@media screen and (min-width:900px){
+    .test2{
+        width:66.6vw;
+    }
+    /* vw = viewport width */
+}
+
+@media screen and (min-width:1200px){
+    .test2{
+        width:33.3vw;
+    }
+}
