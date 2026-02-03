@@ -2,6 +2,10 @@
 .back-sizer{
     height:600px;
     border:2px solid black;
+    background-image:url("../images/puppy-full.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: 70% center;
 }
 
 .test2 img{
